@@ -1,3 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://meuplay.shop:80/359141125870/595404233616/715
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://meuplay.shop:80/359141125870/595404233616/715
